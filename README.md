@@ -1,2 +1,2 @@
 # municipalities
-Municipalities from mexico city, geojson format
+Municipalities from mexico city, json format
